@@ -18,7 +18,9 @@ Beyond downloading and placing it in a suitable location on the computer, the co
 
 Instructions for testing the code on the demo dataset:
 
-To run the code on the provided demo data (folder on Githup "demo-dataset-M928.zip"):
+Download the demo dataset from the Zenodo repository (DOI: 10.5281/zenodo.13166027) with link: https://zenodo.org/records/13166027 
+
+To run the code on the provided demo data:
 
 - Start BiofilmQ and load the data. 
 - Select "Parameter based on user-defined Matlab script" in the parameter tab of BiofilmQ. 
