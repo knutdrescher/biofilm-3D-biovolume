@@ -1,7 +1,7 @@
 # Quantification of the 3D biofilm biovolume in images
 This code quantifies the fraction of the biovolume in images with height 3 µm above the glass coverslip of a microfluidic chamber. This is achieved by computing the biofilm biovolume above 3 µm and dividing this by the total biofilm biovolume (including biovolume above and below 3 µm height).
 
-**System requirements: **
+**System requirements:**
 
 This code is used as an add-on to the BiofilmQ software, as described below. Running the code requires the previous installation of BiofilmQ ( https://drescherlab.org/data/biofilmQ/docs/ ). It can run on Windows 10 or more recent, MaxOSX, and Linux. It requires Matlab R2017b or more recent, with the Image Processing Toolbox, Curve Fitting Toolbox and Statistics and Machien Learning Toolbox.
 
