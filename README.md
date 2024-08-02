@@ -29,6 +29,7 @@ To run the code on the provided demo data (folder on Githup "demo-dataset-M928.z
 [0.088; 0.357; 0.055; 0.429; 0.187; 0.537]
 
 Alternatively, choose "Global biofilm parameters" as the plotting options and select "Frame" for the x-axis and "Biomass3DIndex" for the y-axis. Then plot and verify the numbers above by via the scatter plot.
+![alt text](https://github.com/knutdrescher/biofilm-3D-biovolume/blob/main/demo-data-verification-figure.png?raw=true)
 
 The expected run time of this analysis on a "normal" desktop computer depends strongly on the computer hardware, but for a 4-core Intel i7 CPU with 64 GB of RAM memory this takes only a few minutes. 
 
