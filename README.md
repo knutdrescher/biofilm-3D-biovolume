@@ -1,5 +1,7 @@
 # Quantification of the 3D biofilm biovolume in images
-This code quantifies the fraction of the biovolume in images with height 3 µm above the glass coverslip of a microfluidic chamber. This is achieved by computing the biofilm biovolume above 3 µm and dividing this by the total biofilm biovolume (including biovolume above and below 3 µm height).
+This code (file: "BiofilmQuantification.m") quantifies the fraction of the biovolume in images with height 3 µm above the glass coverslip of a microfluidic chamber. This is achieved by computing the biofilm biovolume above 3 µm and dividing this by the total biofilm biovolume (including biovolume above and below 3 µm height).
+
+A detailed description of the code (pseudocode) is available in the file "Detailed code description.docx". 
 
 **System requirements:**
 
