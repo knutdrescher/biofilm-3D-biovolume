@@ -1,13 +1,13 @@
 # Quantification of the 3D biofilm biovolume in images
 This code quantifies the fraction of the biovolume in images with height 3 µm above the glass coverslip of a microfluidic chamber. This is achieved by computing the biofilm biovolume above 3 µm and dividing this by the total biofilm biovolume (including biovolume above and below 3 µm height).
 
-System requirements: 
+**System requirements: **
 
 This code is used as an add-on to the BiofilmQ software, as described below. Running the code requires the previous installation of BiofilmQ ( https://drescherlab.org/data/biofilmQ/docs/ ). It can run on Windows 10 or more recent, MaxOSX, and Linux. It requires Matlab R2017b or more recent, with the Image Processing Toolbox, Curve Fitting Toolbox and Statistics and Machien Learning Toolbox.
 
 The code was written and tested in Matlab R2020a.
 
-Installation guide:
+**Installation guide:**
 
 For BiofilmQ installation follow the instructions given here: https://drescherlab.org/data/biofilmQ/docs/usage/installation.html
 Following the BiofilmQ installation procedure on a normal desktop computer should not take more than a few minutes. 
@@ -16,7 +16,7 @@ Download the code for the 3D biofilm biovolume calculation from GitHub (https://
 
 Beyond downloading and placing it in a suitable location on the computer, the code itself requires no additional installation.
 
-Instructions for testing the code on the demo dataset:
+**Instructions for testing the code on the demo dataset:**
 
 Download the demo dataset from the Zenodo repository (DOI: 10.5281/zenodo.13166027) with link: https://zenodo.org/records/13166027 
 
@@ -35,7 +35,7 @@ Alternatively, choose "Global biofilm parameters" as the plotting options and se
 
 The expected run time of this analysis on a "normal" desktop computer depends strongly on the computer hardware, but for a 4-core Intel i7 CPU with 64 GB of RAM memory this takes only a few minutes. 
 
-Instructions for using the code:
+**Instructions for using the code:**
 
 To run the code on your own data:
 
